@@ -7,6 +7,8 @@ Example for Git TechTalk
 
 Another example change
 
+Third example change
+
 Infinispan documentation is available [here](http://infinispan.org/documentation/). The documentation of the latest version is available [here](http://infinispan.org/docs/7.1.x/user_guide/user_guide.html).
 
 ## 1. Basic configuration ##
